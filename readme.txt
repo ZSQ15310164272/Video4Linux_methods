@@ -1,6 +1,3 @@
-# Video4Linux_methods
-This is  V4L usage description.  Please install OpenCV.
-
 Client - V4L Invoking process
 	main function gives a specific method of calling
 Server - V4LService process

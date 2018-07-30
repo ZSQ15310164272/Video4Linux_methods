@@ -1,0 +1,1 @@
+/home/ubuntu/liunxreaddata/VideoService/Client/build/CMakeFiles/Client.dir
